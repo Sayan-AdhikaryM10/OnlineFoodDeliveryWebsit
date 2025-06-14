@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Demo</h2>
-<img src="onlineFoodDeliveryWebsite/ResponsiveFoodDalivaryWebsite/Demo1.png" alt="Error loading image">
+<img src="onlineFoodDeliveryWebsite/ResponsiveFoodDalivaryWebsite/Screenshot 2025-06-14 211611.png" alt="Error loading image">
 <img src="onlineFoodDeliveryWebsite/ResponsiveFoodDalivaryWebsite/Demo2.png" alt="Error loading image">
 <img src="onlineFoodDeliveryWebsite/ResponsiveFoodDalivaryWebsite/Demo3.png" alt="Error loading image">
 <img src="onlineFoodDeliveryWebsite/ResponsiveFoodDalivaryWebsite/Demo4.png" alt="Error loading image">
